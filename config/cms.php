@@ -379,7 +379,7 @@ return [
     |
     */
 
-    'enableCsrfProtection' => env('ENABLE_CSRF', true),
+    'enableCsrfProtection' => env('ENABLE_CSRF', false),
 
     /*
     |--------------------------------------------------------------------------
